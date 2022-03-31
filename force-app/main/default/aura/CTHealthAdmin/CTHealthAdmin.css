@@ -1,0 +1,32 @@
+.THIS.container{
+    margin: -12px;
+    background: white;
+    
+}
+
+.THIS .statusheader{
+    font-weight:600;
+    color: green;
+    text-transform: uppercase;
+}
+
+
+.THIS .statusheader1{
+    font-weight: 600;
+    color: #dbdb3c;
+    text-transform: uppercase;
+}
+
+
+.THIS .statusheader2{
+    font-weight: 600;
+    color: orange;
+    text-transform: uppercase;
+}
+.THIS .statusheader3{
+    font-weight: 600;
+    color: RED;
+    text-transform: uppercase;
+}
+
+
